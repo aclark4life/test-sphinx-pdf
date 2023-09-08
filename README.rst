@@ -4,3 +4,7 @@ test-sphinx-pdf
 - https://www.sphinx-doc.org/en/master/faq.html#how-do-i
 - https://github.com/brechtm/rinohtype
 
+::
+
+    make install
+    make sphinx-build-pdf
