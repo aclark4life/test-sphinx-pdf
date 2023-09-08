@@ -46,5 +46,5 @@ include base.mk
 # Uncomment the next line to include additional makefiles
 #include project.mk
 
-latexpdf:
-	sphinx-build -b latex . _build/latex
+readme-build:
+	sphinx-build -b rinoh . _build/rinoh
