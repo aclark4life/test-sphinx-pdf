@@ -5,3 +5,4 @@ share/
 pyvenv.cfg
 __pycache__
 .elasticbeanstalk/
+_build/
